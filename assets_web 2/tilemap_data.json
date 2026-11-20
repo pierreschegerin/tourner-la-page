@@ -1,0 +1,191 @@
+{
+  "tile_size": 64,
+  "columns": 8,
+  "rows": 8,
+  "tiles": {
+    "aquatique_sable": [
+      0,
+      0
+    ],
+    "aquatique_tortue_bloc": [
+      1,
+      0
+    ],
+    "aquatique_dauphin_bloc": [
+      2,
+      0
+    ],
+    "aquatique_algue_mur": [
+      3,
+      0
+    ],
+    "aquatique_meduse_bumper": [
+      4,
+      0
+    ],
+    "aquatique_etoile_collectible": [
+      5,
+      0
+    ],
+    "aquatique_bulle": [
+      6,
+      0
+    ],
+    "aquatique_oursin_danger": [
+      7,
+      0
+    ],
+    "jungle_terre": [
+      0,
+      1
+    ],
+    "jungle_dino": [
+      1,
+      1
+    ],
+    "jungle_tronc_mur": [
+      2,
+      1
+    ],
+    "jungle_champignon_bumper": [
+      3,
+      1
+    ],
+    "jungle_ronces_danger": [
+      4,
+      1
+    ],
+    "espace_asteroide": [
+      0,
+      2
+    ],
+    "espace_fusee_mur": [
+      1,
+      2
+    ],
+    "nuages_nuage": [
+      2,
+      2
+    ],
+    "nuages_arc_en_ciel": [
+      3,
+      2
+    ],
+    "deuil_encre_bloc": [
+      0,
+      3
+    ],
+    "deuil_encre_mur": [
+      1,
+      3
+    ],
+    "deuil_esquisse_crayon": [
+      2,
+      3
+    ],
+    "deuil_fantome_pointilles": [
+      3,
+      3
+    ],
+    "deuil_gomme": [
+      4,
+      3
+    ],
+    "player_idle": [
+      0,
+      4
+    ],
+    "player_run1": [
+      1,
+      4
+    ],
+    "player_run2": [
+      2,
+      4
+    ],
+    "player_jump": [
+      3,
+      4
+    ],
+    "player_wall": [
+      4,
+      4
+    ],
+    "player_dash": [
+      5,
+      4
+    ],
+    "aquatique_hippocampe": [
+      0,
+      5
+    ],
+    "aquatique_banc_poissons": [
+      1,
+      5
+    ],
+    "aquatique_algues_sable_128x64": [
+      2,
+      5
+    ],
+    "aquatique_tortue_128x64": [
+      0,
+      6
+    ],
+    "aquatique_dauphin_128x64": [
+      2,
+      6
+    ],
+    "vrai_etoile_64": [
+      0,
+      5
+    ],
+    "vrai_tortue_64": [
+      1,
+      5
+    ],
+    "vrai_dauphin_64": [
+      2,
+      5
+    ],
+    "vrai_hippocampe_64": [
+      3,
+      5
+    ],
+    "vrai_meduse_64": [
+      4,
+      5
+    ],
+    "vrai_algues_64": [
+      5,
+      5
+    ],
+    "vrai_poisson_64": [
+      6,
+      5
+    ],
+    "vrai_bulle_64": [
+      7,
+      5
+    ],
+    "vrai_tortue_128x64": [
+      0,
+      6
+    ],
+    "vrai_dauphin_128x64": [
+      2,
+      6
+    ],
+    "vrai_algues_128x64": [
+      4,
+      6
+    ],
+    "vrai_meduse_64x128": [
+      6,
+      6
+    ],
+    "vrai_hippocampe_64x128": [
+      7,
+      6
+    ]
+  }
+}
